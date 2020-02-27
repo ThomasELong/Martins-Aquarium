@@ -10,9 +10,10 @@
 
 .container {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     background-color: lightgray;
-    justify-content: flex-end;
+    justify-content: space-between;
+    flex-direction: row;
 }
 
 

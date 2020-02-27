@@ -5,6 +5,7 @@
     border: black solid 2px;
     padding: .5cm;
     flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .tips {
