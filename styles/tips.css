@@ -1,5 +1,6 @@
 .tipList {
     flex-basis: 20%;
+    justify-content: right;
 }
 
 .tip {

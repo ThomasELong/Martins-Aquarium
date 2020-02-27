@@ -6,8 +6,8 @@
 .container {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
     background-color: lightgray;
+    justify-content: flex-end;
 }
 
 .navigation {
@@ -32,7 +32,6 @@
 .fishList {
     flex-basis: 45%;
     display: flex;
-    justify-content: space-around;
     flex-direction: column;
     flex-wrap: wrap;
 }

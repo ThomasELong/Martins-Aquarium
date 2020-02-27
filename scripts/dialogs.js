@@ -11,10 +11,6 @@ const initializeDetailButtonEvents = () => {
     }
     // CAN'T TOUCH THIS - END
 
-
-    // You will be writing code below this line
-
-    // Show Bart's details when the button is clicked
     document.querySelector("#button--bart").addEventListener(
         "click",
         theClickEvent => {
