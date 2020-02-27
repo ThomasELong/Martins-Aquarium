@@ -1,7 +1,19 @@
+
 .navigation {
     margin: 2em;
+    text-align: center;
+    padding: 7em 3em 7em 3em;
+    background-image: url(https://www.calacademy.org/sites/default/files/styles/manual_crop_standard_960x540/public/assets/images/Education_Images/TYE_Images/sensationalseaweed_kelp_clintonbauder1200x900.jpg?itok=jKm9CYif&c=8a6ecfbbf4c00a4fb5bdf63f2bd78cdd);
+    display: flex;
+    flex-direction: row;
 }
 
 .navigation__link {
     padding: 0 1em 0 1em;
+    font-size: 2em;
+    font-weight: 200;
+    color: black;
+    fill: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
 }
