@@ -1,7 +1,18 @@
+
 .navigation {
-    margin: 2em;
+    /* margin: 2em; */
+    text-align: center;
+    padding: 7em 3em 7em 3em;
+    display: flex;
+    flex-direction: row;
 }
 
 .navigation__link {
     padding: 0 1em 0 1em;
+    font-size: 2em;
+    font-weight: 200;
+    color: black;
+    fill: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
 }
