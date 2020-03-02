@@ -1,6 +1,3 @@
-
-
-
 const fishCollection = [
     {
         name: "Betty",

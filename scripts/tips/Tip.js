@@ -1,21 +1,14 @@
 
-export const Tips = (tip) => {
+const Tips = (tip) => {
     return `
             <header>
                 <h3>Martin's Tips</h3>
             </header>
             <ul class="tips">
-                <li>
-                    Make sure the tank has water.
-                </li>
-                <li>
-                    Clean the poop out on a regular basis.
-                </li>
-                <li>
-                    Make sure to feed them daily.
-                </li>
+                <li>${tip.number}</li>
+                <li>${tip.detail}</li>
             </ul>
     `
 }
 
-//Trying to get the tip list to populate on the DOM//
+export default Tips

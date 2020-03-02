@@ -1,26 +1,26 @@
 const tipCollection = [
     {
-        number: "1",
+        number: "Tip 1:",
         detail: "Make sure the tank has water.",
     },
     {
-        number: "2",
+        number: "Tip 2:",
         detail: "Clean the poop out on a regular basis.",
     },
     {
-        number: "3",
+        number: "Tip 3:",
         detail: "Make sure to feed each one daily.",
     },
     {
-        number: "4",
+        number: "Tip 4:",
         detail: "Blah Blah Blah",
     },
     {
-        number: "5",
+        number: "Tip 5:",
         detail: "blah blah blah",
     },
     {
-        number: "6",
+        number: "Tip 6:",
         detail: "BLAH BLAH BLAH",
     }
 ]

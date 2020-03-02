@@ -1,4 +1,5 @@
 import { useTips } from "./TipDataProvider.js"
+import  Tip  from "./Tip.js"
 
 
 
