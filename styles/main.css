@@ -1,13 +1,16 @@
 @import "nav.css";
 @import "fish.css";
 @import "tips.css";
+@import "/location-styles/locations.css";
 
 
 
 .header {
     width: fit-content;
     background-image: url(https://www.calacademy.org/sites/default/files/styles/manual_crop_standard_960x540/public/assets/images/Education_Images/TYE_Images/sensationalseaweed_kelp_clintonbauder1200x900.jpg?itok=jKm9CYif&c=8a6ecfbbf4c00a4fb5bdf63f2bd78cdd);
-    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80em;
+    height: 8em;
 }
 
 .container {
