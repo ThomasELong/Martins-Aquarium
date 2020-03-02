@@ -10,8 +10,7 @@ const Fish = (fish) => {
             </div>
             <div class="fish__name">${fish.name}</div>
             <button id="button--${fish.name}">Details</button>
-            <section class="dialogDetails">
-                <dialog class="dialog--fish" id="details--${fish.name}">
+                <dialog class="dialog--fish dialogDetails" id="details--${fish.name}">
                     <div class="dialog--Details">Species: ${fish.species}</div>
                     <div class="dialog--Details">Location: ${fish.location}</div>
                     <div class="dialog--Details">Length: ${fish.size}</div>
@@ -19,7 +18,6 @@ const Fish = (fish) => {
 
                     <button class="button--close">Close Dialog</button>
                 </dialog>
-            </section>
 
         </div>
     `
